@@ -66,7 +66,7 @@
     -   [ ] [compile list of questions for employers](https://www.youtube.com/playlist?list=PLO4kDC0EWkeDnJ1xy_sTx8RSt8KVfrsEM)
         -   what are your expectations for me in the first 30/60/90 days?
         -   what are the proprietary things that you use? is there adequate documentation?
-        -   what is the general tech stack? what is the product pipeline?
+        -   what is the general tech stack? what is the product pipeline? (prefer github as a platform)
         -
     -   [ ] interview questions
         -   [ ] [banki](https://github.com/curtisbarnard/BANKI)
