@@ -14,6 +14,7 @@
         -   [ ] fix up file/directory structure
         -   [ ] fix up html and stylesheets to conform with best practices (organization, BEM naming)
         -   [ ] fix up README files
+            -   [video to gif in keynote](https://www.youtube.com/watch?v=g6tewLz1m2M)
         -   [ ] combine FEM challenges to mega repo (TODO later)
         -   [ ] cache api call results
     -   [ ] advent of code
@@ -59,6 +60,7 @@
     -   [ ] docker
     -   [ ] lighthouse integration
     -   [ ] chartjs
+    -   [ ] jsperf
 -   practice interviews
     -   [ ] mock interview(s)
     -   [ ] [compile list of questions for employers](https://www.youtube.com/playlist?list=PLO4kDC0EWkeDnJ1xy_sTx8RSt8KVfrsEM)
