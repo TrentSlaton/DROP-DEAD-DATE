@@ -19,6 +19,8 @@
     -   [ ] minivim (intangibles, CI/CD, DevOps, )
     -   [ ] some sql project (sql, CI/CD, DevOps, )
     -   [ ] notes app (intangibles, CI/CD, DevOps, )
+        -   [ ] basic GH Actions/pandoc workflow
+        -   [ ] integrate HTML generation
     -   [ ] portfolio itself (hugo, front end framework, CI/CD, DevOps, )
     -   [ ] personal site (intangibles, sysadmin, full stack, CI/CD, DevOps, )
 -   digital persona
