@@ -11,19 +11,31 @@
     -   [ ] front end mentor (design, layout, front end web dev, CI/CD, DevOps, )
         -   [x] pause layout methods
         -   [ ] complete HTML/CSS challenges (all 19 free)
+        -   [ ] fix up file/directory structure
+        -   [ ] fix up html and stylesheets to conform with best practices (organization, BEM naming)
         -   [ ] fix up README files
         -   [ ] combine FEM challenges to mega repo (TODO later)
         -   [ ] cache api call results
     -   [ ] advent of code
     -   [ ] project euler
     -   [ ] minivim (intangibles, CI/CD, DevOps, )
+    -   [ ] HTML/CSS intellisense extension (intangibles, design, programming, research, CI/CD, DevOps, )
     -   [ ] some sql project (sql, CI/CD, DevOps, )
     -   [ ] notes app (intangibles, CI/CD, DevOps, )
         -   [ ] basic GH Actions/pandoc workflow
         -   [ ] integrate HTML generation
     -   [ ] portfolio itself (hugo, front end framework, CI/CD, DevOps, )
     -   [ ] personal site (intangibles, sysadmin, full stack, CI/CD, DevOps, )
+    -   [ ] slot machine
+        -   [ ] simple front end
+        -   [ ] backend integration
+            -   [ ] user accounts
+            -   [ ] authentication
+            -   [ ] database
+            -   [ ] leaderboard
 -   digital persona
+    -   [ ] headshot
+        -   [Scott Lawrence - headshot posing vid](https://www.youtube.com/watch?v=dXfDfr1x2oY)
     -   [ ] personal site
         -   [ ] domain name
         -   [ ] hosting
@@ -54,3 +66,5 @@
         -   what are the proprietary things that you use? is there adequate documentation?
         -   what is the general tech stack? what is the product pipeline?
         -
+    -   [ ] interview questions
+        -   [ ] [banki](https://github.com/curtisbarnard/BANKI)
