@@ -17,6 +17,7 @@
             -   [video to gif in keynote](https://www.youtube.com/watch?v=g6tewLz1m2M)
         -   [ ] combine FEM challenges to mega repo (TODO later)
         -   [ ] cache api call results
+        -   [ ] cross-browser support (safari, chrome, ff, opera)
     -   [ ] advent of code
     -   [ ] project euler
     -   [ ] minivim (intangibles, CI/CD, DevOps, )
