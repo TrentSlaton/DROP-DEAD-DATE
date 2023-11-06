@@ -47,6 +47,8 @@
         -   [ ] email
     -   [ ] github
         -   [ ] clean up repos
+            -   [ ] readme
+            -   [ ] about section
         -   [ ] clean up gists
         -   [ ] touch up landing page
             -   [ ] headshot
