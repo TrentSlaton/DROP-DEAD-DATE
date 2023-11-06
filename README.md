@@ -58,6 +58,7 @@
     -   [ ] linked in?
     -   [ ] twitter/x
     -   [ ] leetcode
+    -   [ ] front end mentor
 -   CI/CD DevOps pipeline
     -   [ ] github actions
     -   [ ] docker
