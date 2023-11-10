@@ -8,19 +8,25 @@
     -   [ ] convert file format
 -   portfolio items (demonstrating relevant skills)
     -   [ ] exercises for programmers (programming, problem solving, CI/CD, DevOps, )
+        -   [ ] at least exercises 1-13 - [ ] nifty front end for home page (Hugo) and each project (custom)
+        -   [ ] fix up README
+        -   [ ] accessibility (aria, screen reader, keyboard driven)
+        -   [ ] fix up code for best practices (organization, BEM naming)
+        -   [ ] cache api call results
     -   [ ] front end mentor (design, layout, front end web dev, CI/CD, DevOps, )
         -   [x] pause layout methods
-        -   [ ] complete HTML/CSS challenges (all 19 free)
+        -   [x] complete HTML/CSS challenges (all 19 free)
         -   [ ] fix up file/directory structure
         -   [ ] fix up html and stylesheets to conform with best practices (organization, BEM naming)
         -   [ ] fix up README files
             -   [video to gif in keynote](https://www.youtube.com/watch?v=g6tewLz1m2M)
         -   [ ] combine FEM challenges to mega repo (TODO later)
-        -   [ ] cache api call results
         -   [ ] cross-browser support (safari, chrome, ff, opera)
+        -   [ ] accessibility (aria, screen reader, keyboard driven)
     -   [ ] advent of code
     -   [ ] project euler
     -   [ ] minivim (intangibles, CI/CD, DevOps, )
+    -   [ ] DSA visualizer web app (fundamentals/CS theory, app design/implementation)
     -   [ ] HTML/CSS intellisense extension (intangibles, design, programming, research, CI/CD, DevOps, )
     -   [ ] some sql project (sql, CI/CD, DevOps, )
     -   [ ] notes app (intangibles, CI/CD, DevOps, )
