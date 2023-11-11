@@ -66,6 +66,8 @@
     -   [ ] twitter/x
     -   [ ] leetcode
     -   [ ] front end mentor
+    -   [ ] portfolio
+        -   [ ] hugo theme
 -   CI/CD DevOps pipeline
     -   [ ] github actions
     -   [ ] docker
