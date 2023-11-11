@@ -8,7 +8,8 @@
     -   [ ] convert file format
 -   portfolio items (demonstrating relevant skills)
     -   [ ] exercises for programmers (programming, problem solving, CI/CD, DevOps, )
-        -   [ ] at least exercises 1-13 - [ ] nifty front end for home page (Hugo) and each project (custom)
+        -   [x] at least exercises 1-13
+        -   [ ] nifty front end for home page (Hugo) and each project (custom)
         -   [ ] fix up README
         -   [ ] accessibility (aria, screen reader, keyboard driven)
         -   [ ] fix up code for best practices (organization, BEM naming)
