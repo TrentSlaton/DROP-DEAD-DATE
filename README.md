@@ -30,6 +30,7 @@
     -   [ ] DSA visualizer web app (fundamentals/CS theory, app design/implementation)
     -   [ ] HTML/CSS intellisense extension (intangibles, design, programming, research, CI/CD, DevOps, )
     -   [ ] some sql project (sql, CI/CD, DevOps, )
+    -   [ ] make HTML speedrun app (vscode in browser integration)
     -   [ ] notes app (intangibles, CI/CD, DevOps, )
         -   [ ] basic GH Actions/pandoc workflow
         -   [ ] integrate HTML generation
