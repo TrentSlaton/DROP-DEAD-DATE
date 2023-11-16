@@ -21,7 +21,7 @@
         -   [ ] fix up html and stylesheets to conform with best practices (organization, BEM naming)
         -   [ ] fix up README files
             -   [video to gif in keynote](https://www.youtube.com/watch?v=g6tewLz1m2M)
-        -   [ ] combine FEM challenges to mega repo (TODO later)
+        -   [x] combine FEM challenges to mega repo (TODO later)
         -   [ ] cross-browser support (safari, chrome, ff, opera)
         -   [ ] accessibility (aria, screen reader, keyboard driven)
     -   [ ] advent of code
