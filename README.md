@@ -10,6 +10,9 @@
     -   [ ] exercises for programmers (programming, problem solving, CI/CD, DevOps, )
         -   [x] at least exercises 1-13
         -   [ ] nifty front end for home page (Hugo) and each project (custom)
+            -   [ ] clean up singlecover.html partial
+            -   [ ] remove custom nav bar bullshit
+            -   [ ] clean up image styling for screenshots
         -   [ ] fix up README
         -   [ ] accessibility (aria, screen reader, keyboard driven)
         -   [ ] fix up code for best practices (organization, BEM naming)
