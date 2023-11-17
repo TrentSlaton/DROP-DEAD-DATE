@@ -10,9 +10,10 @@
     -   [ ] exercises for programmers (programming, problem solving, CI/CD, DevOps, )
         -   [x] at least exercises 1-13
         -   [ ] nifty front end for home page (Hugo) and each project (custom)
-            -   [ ] clean up singlecover.html partial
-            -   [ ] remove custom nav bar bullshit
+            -   [ ] clean up singlecover.html partial situation
+            -   [ ] remove custom nav bar bullshit (delete contents of scroll-bar.css... deleting file will break compilation)
             -   [ ] clean up image styling for screenshots
+        -   [ ] forget about hugo for now... just copy the styling and hand-jam your own layout and design (this is for FEM and E4P, still consider it for main portfolio page)
         -   [ ] fix up README
         -   [ ] accessibility (aria, screen reader, keyboard driven)
         -   [ ] fix up code for best practices (organization, BEM naming)
