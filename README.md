@@ -23,13 +23,13 @@
         -   [x] complete HTML/CSS challenges (all 19 free)
         -   [x] fix up file/directory structure
         -   [ ] fix up html and stylesheets to conform with best practices (organization, BEM naming)
-        -   [ ] fix up README files
+        -   [x] fix up README files
             -   [video to gif in keynote](https://www.youtube.com/watch?v=g6tewLz1m2M)
         -   [x] combine FEM challenges to mega repo (TODO later)
         -   [ ] cross-browser support (safari, chrome, ff, opera)
         -   [ ] accessibility (aria, screen reader, keyboard driven)
         -   [ ] make each solution great
-            -   [ ] lazy load images
+        -   [ ] lazy load images
     -   [ ] advent of code
     -   [ ] project euler
     -   [ ] minivim (intangibles, CI/CD, DevOps, )
