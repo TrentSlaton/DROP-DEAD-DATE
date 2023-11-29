@@ -14,6 +14,7 @@
       - [ ] remove custom nav bar bullshit (delete contents of scroll-bar.css... deleting file will break compilation)
       - [ ] clean up image styling for screenshots
     - [ ] forget about hugo for now... just copy the styling and hand-jam your own layout and design (this is for FEM and E4P, still consider it for main portfolio page)
+    - [ ] use this as a way to learn tailwind and svelt
     - [ ] fix up README
     - [ ] accessibility (aria, screen reader, keyboard driven)
     - [ ] fix up code for best practices (organization, BEM naming)
@@ -31,6 +32,7 @@
     - [ ] make each solution great
     - [ ] lazy load images
   - [ ] advent of code
+    - [ ] tailwind and svelte!
   - [ ] project euler
   - [ ] minivim (intangibles, CI/CD, DevOps, )
   - [ ] DSA visualizer web app (fundamentals/CS theory, app design/implementation)
