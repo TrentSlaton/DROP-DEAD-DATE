@@ -20,6 +20,7 @@
     - [ ] fix up code for best practices (organization, BEM naming)
     - [ ] cache api call results
   - [ ] front end mentor (design, layout, front end web dev, CI/CD, DevOps, )
+    - [ ] bite the bullet and make separate repos... having this project in a single Hugo repo is possible but not desirable
     - [x] pause layout methods
     - [x] complete HTML/CSS challenges (all 19 free)
     - [x] fix up file/directory structure
@@ -30,9 +31,10 @@
     - [ ] cross-browser support (safari, chrome, ff, opera)
     - [ ] accessibility (aria, screen reader, keyboard driven)
     - [ ] make each solution great
-    - [ ] lazy load images
+    - [x] lazy load images
   - [ ] advent of code
     - [ ] tailwind and svelte!
+    - [ ] tailwind and hugo
   - [ ] project euler
   - [ ] minivim (intangibles, CI/CD, DevOps, )
   - [ ] DSA visualizer web app (fundamentals/CS theory, app design/implementation)
