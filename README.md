@@ -2,25 +2,21 @@
 
 ## TODO
 
-- resume
+- [ ] resume
   - [ ] draft
   - [ ] automate
   - [ ] convert file format
 - portfolio items (demonstrating relevant skills)
   - [ ] exercises for programmers (programming, problem solving, CI/CD, DevOps, )
     - [x] at least exercises 1-13
-    - [ ] nifty front end for home page (Hugo) and each project (custom)
-      - [ ] clean up singlecover.html partial situation
-      - [ ] remove custom nav bar bullshit (delete contents of scroll-bar.css... deleting file will break compilation)
-      - [ ] clean up image styling for screenshots
-    - [ ] forget about hugo for now... just copy the styling and hand-jam your own layout and design (this is for FEM and E4P, still consider it for main portfolio page)
-    - [ ] use this as a way to learn tailwind and svelt
+    - [ ] fix up front end (basic for now)
+    - [ ] fix up each problem (basic for now)
     - [ ] fix up README
     - [ ] accessibility (aria, screen reader, keyboard driven)
     - [ ] fix up code for best practices (organization, BEM naming)
-    - [ ] cache api call results
+    - [ ] renew API key and cache results
   - [ ] front end mentor (design, layout, front end web dev, CI/CD, DevOps, )
-    - [ ] bite the bullet and make separate repos... having this project in a single Hugo repo is possible but not desirable
+    - [x] bite the bullet and make separate repos... having this project in a single Hugo repo is possible but not desirable
     - [x] pause layout methods
     - [x] complete HTML/CSS challenges (all 19 free)
     - [x] fix up file/directory structure
@@ -28,13 +24,11 @@
     - [x] fix up README files
       - [video to gif in keynote](https://www.youtube.com/watch?v=g6tewLz1m2M)
     - [x] combine FEM challenges to mega repo
-    - [ ] cross-browser support (safari, chrome, ff, opera)
+    - [ ] cross-browser support (safari, chrome, ff, opera, ... use tailwind reset/normalize)
     - [ ] accessibility (aria, screen reader, keyboard driven)
     - [ ] make each solution great
     - [x] lazy load images
   - [ ] advent of code
-    - [ ] tailwind and svelte!
-    - [ ] tailwind and hugo
   - [ ] project euler
   - [ ] minivim (intangibles, CI/CD, DevOps, )
   - [ ] DSA visualizer web app (fundamentals/CS theory, app design/implementation)
@@ -45,6 +39,8 @@
     - [ ] basic GH Actions/pandoc workflow
     - [ ] integrate HTML generation
   - [ ] portfolio itself (hugo, front end framework, CI/CD, DevOps, )
+    - [ ] tags
+    - [ ] summaries
   - [ ] personal site (intangibles, sysadmin, full stack, CI/CD, DevOps, )
   - [ ] slot machine
     - [ ] simple front end
